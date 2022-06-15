@@ -2,8 +2,8 @@
 // get the list of monitors
 // instatiate monitors and provides a list of monitors to apply
 
-import Bootstrap from "../coolsim-configuration/index.js";
-import Utils from "../coolsim-utilities/index.js"
+import Bootstrap from "../configuration/index.js";
+import Utils from "../utilities/index.js"
 import _ from "lodash";
 const DEVICE = Bootstrap.device;
 
