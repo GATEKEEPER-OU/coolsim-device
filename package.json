@@ -1,5 +1,5 @@
 {
-  "name": "Device",
+  "name": "coolsim-device",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DrPollo/Community-Planner-Device.git"
+    "url": "git+https://github.com/GATEKEEPER-OU/coolsim-device.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DrPollo/Community-Planner-Device/issues"
+    "url": "https://github.com/GATEKEEPER-OU/coolsim-device/issues"
   },
-  "homepage": "https://github.com/DrPollo/Community-Planner-Device#readme",
+  "homepage": "https://github.com/GATEKEEPER-OU/coolsim-device#readme",
   "type": "module",
   "dependencies": {
     "lodash": "^4.17.15"
